@@ -26,9 +26,18 @@ ________________________________________________________________________________
 
 This function was developed in R software (R Core Team, version 3.4.4., 2018)
 
+To use this function it is necessary to install the package RColorBrewer and load, as shown below.
+
+  - install.packages("RColorBrewer")
+  
+  - library(RColorBrewer)
+_________________________________________________________________________________________________________________________________________________________________
+
 This repository contains
 
-  + Source Code: This folder contains the file of source code.
+  + The file of source code.
+  
+  + The R function to download
   
 _________________________________________________________________________________________________________________________________________________________________
 
