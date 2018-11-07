@@ -14,7 +14,7 @@ Authors:
 
   - PhD Mayra Vélez (Universidad Técnica Estatal de Quevedo, Quevedo, Los Ríos, Ecuador).
   
-  - M.Sc Rodrigo Cupertino Bernardes (Federal University of Vicosa). *function developer*. Email:bernardesrodrigoc@gmail.com
+  - M.Sc Rodrigo Cupertino Bernardes (Federal University of Vicosa). *function developer*. Email: bernardesrodrigoc@gmail.com
   
   - PhD Wagner Faria Barbosa (Federal University of Vicosa).
   
@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 **Instructions for use**
 
-You can download the ** explotracker ** file that is inside the Source Code folder. Save the file in the directory you want. In the R Console use the following command to load the function:
+You can download the **explotracker** file that is inside the Source Code folder. Save the file in the directory you want. In the R Console use the following command to load the function:
 
 source("directory path where the function was saved/explotracker.R")
 
