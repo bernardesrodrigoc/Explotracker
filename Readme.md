@@ -2,7 +2,7 @@
 
 **Description**
 
-An R function to determine the exploitation of animals in a given area, using the coordinates of the walking trajectory, which are usually obtained by tracking software.
+An R function to determine the exploration of animals in a given area, using the coordinates of the walking trajectory, which are usually obtained by tracking software.
 
 Algorithm developed and published in Journal Crop Protection.
 
